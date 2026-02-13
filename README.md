@@ -178,5 +178,5 @@ Then try:
 
 ---
 
-Enjoy — this is the cleanest way to **avoid dependency conflicts** across projects.
+Using venv is the cleanest way to **avoid dependency conflicts** across projects.
 
